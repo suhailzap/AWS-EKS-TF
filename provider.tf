@@ -21,7 +21,7 @@ backend "remote" {
 		organization = "SAPZ-Devops-projects"
 
 		workspaces {
-			name = "AWSEKS"
+			name = "AWS_EKS_Lab"
 		}
 	}
 }
